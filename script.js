@@ -14,7 +14,7 @@ function showQuote(){
     });
 }
 
-if ($(window).width() < 400) {
+if ($(window).width() < 420) {
     $(".page-hr").attr('src',"images/pattern-divider-mobile.svg");
  }
  
